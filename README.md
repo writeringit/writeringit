@@ -1,4 +1,4 @@
-# Hi, I'm Riya 👋
+# Hi, I'm Riya!
 
 Senior Content Writer based in Kolkata, writing technical B2B content
 across Salesforce, Snowflake, Databricks, and AI/ML.
@@ -10,7 +10,7 @@ across Salesforce, Snowflake, Databricks, and AI/ML.
 - White papers, case studies, and technical articles
 
 ## My portfolio
-- [Silver Giggle: my technical writing portfolio](https://github.com/writeringit/silver-giggle)
+- [My technical writing portfolio](https://github.com/writeringit/silver-giggle)
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/riya-dutta-48a38b183/)
