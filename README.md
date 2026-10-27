@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Riya 👋
 
-<!--
-**writeringit/writeringit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Content Writer based in Kolkata, writing technical B2B content
+across Salesforce, Snowflake, Databricks, and AI/ML.
 
-Here are some ideas to get you started:
+## What I do
+- Technical documentation and SOPs
+- Service pages and website content strategy
+- SEO and GEO-optimized content
+- White papers, case studies, and technical articles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My portfolio
+- [Silver Giggle: my technical writing portfolio](https://github.com/writeringit/silver-giggle)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/riya-dutta-48a38b183/)
